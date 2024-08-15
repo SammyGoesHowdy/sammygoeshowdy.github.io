@@ -205,3 +205,22 @@ a {
     padding: 0;
     image-rendering: pixelated;
 }
+
+.ScriptArea a img {
+    width: 55px;
+    padding: 0;
+    image-rendering: pixelated;
+}
+
+.ScriptArea h2 {
+    font-size: 130%;
+
+}
+
+.ScriptArea {
+    margin: auto;
+    width: 95%;
+
+}
+
+
